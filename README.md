@@ -12,3 +12,5 @@ A simple web app for reading through the whole Bible, one chapter at a time.
 
 ## Use it
 Open the live site, or download index.html and open it in any browser.
+
+Made using Claude
